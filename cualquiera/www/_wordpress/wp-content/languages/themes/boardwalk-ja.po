@@ -1,0 +1,431 @@
+# Translation of Themes - Boardwalk in Japanese
+# This file is distributed under the same license as the Themes - Boardwalk package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2017-07-21 02:23:05+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: ja_JP\n"
+"Project-Id-Version: Themes - Boardwalk\n"
+
+#. Description of the plugin/theme
+msgid "A minimalistic theme with horizontal scrolling."
+msgstr "横スクロールのミニマルなテーマ。"
+
+#. Theme Name of the plugin/theme
+msgid "Boardwalk"
+msgstr "Boardwalk"
+
+#: inc/plugin-enhancements.php:405
+msgid "Your request was processed. See ya!"
+msgstr "リクエストは処理されました。ご覧ください。"
+
+#: inc/plugin-enhancements.php:398
+msgid "Your request failed permission check."
+msgstr "あなたのリクエストはパーミッションの認証に失敗しました。"
+
+#: inc/plugin-enhancements.php:302
+msgid "To use %1$s, please activate the Jetpack plugin&rsquo;s %2$s."
+msgstr "%1$s を使うには Jetpack プラグインの %2$s を有効化してください。"
+
+#: inc/plugin-enhancements.php:277
+msgid "Install"
+msgstr "インストールする"
+
+#: inc/plugin-enhancements.php:275
+msgid " Please install %1$s. %2$s"
+msgstr "%1$sをインストールしてください。%2$s"
+
+#: inc/plugin-enhancements.php:267
+msgid "Activate"
+msgstr "有効化する"
+
+#: inc/plugin-enhancements.php:265
+msgid " Please activate %1$s. %2$s"
+msgstr "%1$sを有効化してください。%2$s"
+
+#: inc/plugin-enhancements.php:188
+msgid "Custom Content Types module"
+msgstr "カスタムコンテンツタイプモジュール"
+
+#: inc/plugin-enhancements.php:187
+msgid "no specific module needed"
+msgstr "特定のモジュールは必要ありません"
+
+#: inc/plugin-enhancements.php:169
+msgid "Content Options"
+msgstr "コンテンツ設定"
+
+#: inc/plugin-enhancements.php:160
+msgid "Portfolios"
+msgstr "ポートフォリオ"
+
+#: inc/plugin-enhancements.php:151
+msgid "Testimonials"
+msgstr "推薦文"
+
+#: inc/plugin-enhancements.php:142
+msgid "Comics"
+msgstr "コミック"
+
+#: inc/plugin-enhancements.php:133
+msgid "Menus"
+msgstr "メニュー"
+
+#: inc/plugin-enhancements.php:115
+msgid "Featured Content"
+msgstr "おすすめコンテンツ"
+
+#: inc/plugin-enhancements.php:106
+msgid "Site Logo"
+msgstr "サイトロゴ"
+
+#: inc/plugin-enhancements.php:83
+msgid "Jetpack plugin"
+msgstr "Jetpack プラグイン"
+
+#: inc/plugin-enhancements.php:82
+msgid "The %1$s is necessary to use some of this theme&rsquo;s features, including: "
+msgstr "%1$s はこのテーマのいくつかの機能を使用するために必要です:"
+
+#: inc/customizer.php:76
+msgid "If featured image isn't set, display colored block on blog page."
+msgstr "アイキャッチ画像が設定されていない場合、ブログページにカラーブロックを表示する。"
+
+#: inc/customizer.php:20
+msgid "Theme Options"
+msgstr "テーマオプション"
+
+#: sidebar.php:17
+msgid "Menu"
+msgstr "メニュー"
+
+#: search.php:16
+msgid "Search Results for: %s"
+msgstr "「%s」の検索結果"
+
+#: inc/template-tags.php:180
+msgid "Archives"
+msgstr "アーカイブ"
+
+#. translators: 1: Taxonomy singular name, 2: Current taxonomy term
+#: inc/template-tags.php:178
+msgid "%1$s: %2$s"
+msgstr "%1$s: %2$s"
+
+#: inc/template-tags.php:174
+msgid "Archives: %s"
+msgstr "アーカイブ: %s"
+
+#: inc/template-tags.php:172
+msgctxt "post format archive title"
+msgid "Chats"
+msgstr "チャット"
+
+#: inc/template-tags.php:170
+msgctxt "post format archive title"
+msgid "Audio"
+msgstr "音声"
+
+#: inc/template-tags.php:168
+msgctxt "post format archive title"
+msgid "Statuses"
+msgstr "ステータス"
+
+#: inc/template-tags.php:166
+msgctxt "post format archive title"
+msgid "Links"
+msgstr "リンク"
+
+#: inc/template-tags.php:164
+msgctxt "post format archive title"
+msgid "Quotes"
+msgstr "引用"
+
+#: inc/template-tags.php:162
+msgctxt "post format archive title"
+msgid "Videos"
+msgstr "動画"
+
+#: inc/template-tags.php:160
+msgctxt "post format archive title"
+msgid "Images"
+msgstr "画像"
+
+#: inc/template-tags.php:158
+msgctxt "post format archive title"
+msgid "Galleries"
+msgstr "ギャラリー"
+
+#: inc/template-tags.php:156
+msgctxt "post format archive title"
+msgid "Asides"
+msgstr "アサイド"
+
+#: inc/template-tags.php:154
+msgctxt "daily archives date format"
+msgid "F j, Y"
+msgstr "Y年n月j日"
+
+#: inc/template-tags.php:154
+msgid "Day: %s"
+msgstr "﻿日別: %s"
+
+#: inc/template-tags.php:152
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr "Y年n月"
+
+#: inc/template-tags.php:152
+msgid "Month: %s"
+msgstr "月別: %s"
+
+#: inc/template-tags.php:150
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y年"
+
+#: inc/template-tags.php:150
+msgid "Year: %s"
+msgstr "﻿年別: %s"
+
+#: inc/template-tags.php:148
+msgid "Author: %s"
+msgstr "作者別: %s"
+
+#: inc/template-tags.php:146
+msgid "Tag: %s"
+msgstr "タグ: %s"
+
+#: inc/template-tags.php:144
+msgid "Category: %s"
+msgstr "カテゴリー: %s"
+
+#: inc/template-tags.php:123
+msgid "% Comments"
+msgstr "%件のコメント"
+
+#: inc/template-tags.php:123
+msgid "1 Comment"
+msgstr "1件のコメント"
+
+#: inc/template-tags.php:123
+msgid "Leave a comment"
+msgstr "コメントする"
+
+#: inc/template-tags.php:116
+msgctxt "post author"
+msgid "By %s"
+msgstr "投稿者: %s"
+
+#: inc/template-tags.php:109
+msgid "Posted in %1$s"
+msgstr "カテゴリー: %1$s"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:107 inc/template-tags.php:113
+msgid ", "
+msgstr "、"
+
+#: inc/template-tags.php:104
+msgid "All %s posts"
+msgstr "すべての%s投稿"
+
+#: inc/template-tags.php:86
+msgid "Featured"
+msgstr "注目"
+
+#: inc/template-tags.php:57
+msgctxt "Next post link"
+msgid "%title&nbsp;<span class=\"meta-nav\">&rarr;</span>"
+msgstr "%title&nbsp;<span class=\"meta-nav\">&rarr;</span>"
+
+#: inc/template-tags.php:56
+msgctxt "Previous post link"
+msgid "<span class=\"meta-nav\">&larr;</span>&nbsp;%title"
+msgstr "<span class=\"meta-nav\">&larr;</span>&nbsp;%title"
+
+#: inc/template-tags.php:52
+msgid "Post navigation"
+msgstr "投稿ナビゲーション"
+
+#: inc/template-tags.php:29
+msgid "Newer posts <span class=\"meta-nav\">&rarr;</span>"
+msgstr "新しい投稿 <span class=\"meta-nav\">&rarr;</span>"
+
+#: inc/template-tags.php:25
+msgid "<span class=\"meta-nav\">&larr;</span> Older posts"
+msgstr "<span class=\"meta-nav\">&larr;</span> 過去の投稿"
+
+#: inc/template-tags.php:21
+msgid "Posts navigation"
+msgstr "投稿ナビゲーション"
+
+#: inc/extras.php:114
+msgid "Page %s"
+msgstr "ページ %s"
+
+#: inc/customizer.php:65
+msgid "Unfixed header when scrolling down."
+msgstr "スクロールダウンする際にヘッダーを固定しない。"
+
+#: inc/customizer.php:53
+msgid "Keep title with content on single posts and pages."
+msgstr "個別投稿および固定ページでコンテンツにタイトルをつける。"
+
+#: inc/customizer.php:41
+msgid "Show author bio on single posts."
+msgstr "個別投稿に投稿者プロフィールを表示する。"
+
+#: inc/customizer.php:30
+msgid "Add a dark filter to featured images"
+msgstr "アイキャッチ画像にダークフィルターを追加する"
+
+#: header.php:33
+msgid "Toggle Sidebar"
+msgstr "サイドバー切り替え"
+
+#: header.php:22
+msgid "Skip to content"
+msgstr "コンテンツへスキップ"
+
+#. translators: If there are characters in your language that are not supported
+#. by Source Code Pro, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:153
+msgctxt "Source Code Pro font: on or off"
+msgid "on"
+msgstr "on"
+
+#. translators: If there are characters in your language that are not supported
+#. by Merriweather, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:119
+msgctxt "Merriweather font: on or off"
+msgid "on"
+msgstr "on"
+
+#. translators: If there are characters in your language that are not supported
+#. by Lato, translate this to 'off'. Do not translate into your own language.
+#: functions.php:114
+msgctxt "Lato font: on or off"
+msgid "on"
+msgstr "on"
+
+#: functions.php:92
+msgid "Sidebar"
+msgstr "サイドバー"
+
+#: functions.php:56 inc/plugin-enhancements.php:124
+msgid "Social Menu"
+msgstr "ソーシャルメニュー"
+
+#: functions.php:55
+msgid "Primary Menu"
+msgstr "メインメニュー"
+
+#: footer.php:31
+msgid "Theme: %1$s by %2$s."
+msgstr "Theme: %1$s by %2$s."
+
+#: footer.php:29
+msgid "Proudly powered by %s"
+msgstr "Proudly powered by %s"
+
+#: footer.php:29
+msgid "http://wordpress.org/"
+msgstr "http://ja.wordpress.org/"
+
+#: content.php:28
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr "続きを読む <span class=\"meta-nav\">&rarr;</span>"
+
+#: content-page.php:32 inc/template-tags.php:127
+msgid "Edit"
+msgstr "編集"
+
+#: content-page.php:26 content-single.php:29
+msgid "Page"
+msgstr "ページ"
+
+#: content-page.php:22 content-single.php:25
+msgid "Pages:"
+msgstr "ページ:"
+
+#: content-none.php:28
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "お探しのコンテンツを見つけられませんでした。検索をお試しください。"
+
+#: content-none.php:23
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "ご指定の検索条件に一致する投稿がありませんでした。他のキーワードでもう一度検索してみてください。"
+
+#: content-none.php:19
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "最初の投稿をする準備ができましたか ?  <a href=\"%1$s\">ここからスタート</a>してください。"
+
+#: content-none.php:13
+msgid "Nothing Found"
+msgstr "見つかりません"
+
+#: comments.php:63
+msgid "Comments are closed."
+msgstr "コメントは停止中です。"
+
+#: comments.php:50
+msgid "Newer Comments &rarr;"
+msgstr "新しいコメント &rarr;"
+
+#: comments.php:49
+msgid "&larr; Older Comments"
+msgstr "&larr; 過去のコメント"
+
+#: comments.php:48
+msgid "Comment navigation"
+msgstr "コメントナビゲーション"
+
+#: comments.php:30
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "&ldquo;%2$s&rdquo; への%1$s件のフィードバック"
+
+#: author-bio.php:27
+msgid "View all posts by %s"
+msgstr "%s の投稿をすべて表示"
+
+#: author-bio.php:10
+msgid "Published by %s"
+msgstr "投稿者: %s"
+
+#. translators: %1$s: smiley
+#: 404.php:44
+msgid "Try looking in the monthly archives. %1$s"
+msgstr "月別アーカイブを探してみてください %1$s"
+
+#: 404.php:27
+msgid "Most Used Categories"
+msgstr "よく使われているカテゴリー"
+
+#: 404.php:19
+msgid "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+msgstr "ここには何も見つかりませんでした。以下のリンクまたは検索をお試しください。"
+
+#: 404.php:15
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "このページは見つかりません。"
+
+#. Author URI of the plugin/theme
+msgid "https://wordpress.com/themes/"
+msgstr "https://wordpress.com/themes/"
+
+#. Author of the plugin/theme
+msgid "Automattic"
+msgstr "Automattic"
+
+#. Theme URI of the plugin/theme
+msgid "https://wordpress.com/themes/boardwalk/"
+msgstr "https://ja.wordpress.com/themes/boardwalk/"
