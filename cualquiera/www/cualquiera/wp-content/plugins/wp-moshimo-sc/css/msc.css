@@ -1,0 +1,158 @@
+/* Moshimo Short Code CSS Style */
+
+/* clearfix */
+.clearfix:after {
+	content: ".";
+	display: block;
+	height: ;
+	clear: both;
+	visibility: hidden;
+}
+.clearfix {
+	display: inline-table;
+}
+
+/* Hides from IE-mac \*/
+*html .clearfix {
+	height: 1%;
+}
+.clearfix {
+	display: block;
+}
+/* End hide from IE-mac */
+
+/* common */
+.msc-table {
+	margin: 0 0 1em 0;
+}
+.msc-table a {
+	text-decoration: none;
+}
+.msc-table a:hover {
+	text-decoration: underline;
+}
+.msc-table table td {
+	padding: 5px 8px;
+	font-size: 11px;
+	background-color: #FFF;
+	vertical-align: top;
+}
+.sc_price span {
+	color: #FF0000;
+	font-size: 1.8em;
+	font-weight: bold;
+	font-family:"Lucida Grande","Geneva","Arial","Verdana","Osaka","ヒラギノ角ゴ Pro W3","ＭＳ Ｐゴシック",sans-serif;
+}
+.sc_price {
+	margin-top: 10px;
+}
+
+.msc-table img {
+	margin-bottom: 5px;
+}
+.msc-table .sc_name {
+	line-height: 1.4;
+}
+
+/* ranking design */
+.sc-title {
+	text-align: center;
+	font-weight: bold;
+}
+.msc-table table.ranking {
+	border: 1px solid #BBB;
+	border-collapse: collapse;
+/*	width: 170px;*/
+}
+.msc-table table.ranking td {
+	text-align: center;
+	border: 1px solid #BBB;
+}
+.msc-table table.ranking .sc_name {
+	text-align: left;
+}
+.msc-table .sc_ranking {
+/*	background-color: #FFF;*/
+	color: #666;
+	font-weight: bold;
+	margin-bottom: 5px;
+	padding: 2px;
+	font-size: 14px;
+	border-bottom: 1px solid #CCC;
+}
+
+/* list design */
+.msc-table table.list {
+	border: 1px solid #BBB;
+	border-collapse: collapse;
+}
+.msc-table table.list td {
+	text-align: center;
+	border: 1px solid #BBB;
+}
+.msc-table table.list .sc_name {
+	line-height: 1.2;
+	text-align: left;
+}
+
+/* detail design */
+.msc-table table.detail td {
+	font-size: 1em;
+}
+.msc-table table.detail .sc_name {
+	font-size: 1.6em;
+}
+.msc-table table.detail img {
+	margin-right: 20px;
+	float: left;
+}
+.msc-table table.detail .sc_price {
+	text-align: right;
+}
+
+/* orderlink design */
+.msc-table table.orderlink {
+	border: 2px solid #FFCC00!important;
+	margin: 10px 0;
+}
+.msc-table table.orderlink td {
+	font-size: 1em;
+	padding: 5px;
+}
+.msc-table table.orderlink .sc_name {
+	font-size: 1.6em;
+	line-height: 1.6;
+}
+.msc-table table.orderlink img {
+	margin-right: 15px;
+	float: left;
+}
+.msc-table table.orderlink .sc_price {
+	text-align: right;
+	font-size: 1.8em;
+	line-height: 1.5;
+}
+.msc-table table.orderlink .sc-botan a {
+	text-align: right;
+	font-size: 1.4em;
+	border: 3px double #CC0000;
+	background-color: #CC0000;
+	color: #FFF;
+	padding: 0 3px;
+	margin: 5px;
+	line-height: 2em;
+	text-decoration: none;
+}
+.msc-table table.orderlink .sc-botan a:hover {
+	color: #FF0000;
+	border: 3px double #CC0000;
+	background-color: #FFFF00;
+}
+.pbwpmsc {
+	font-size: 9px;
+	text-align: right;
+	margin: 0;
+}
+.pbwpmsc a {
+	color: #BBB;
+}
